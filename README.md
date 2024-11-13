@@ -3,7 +3,7 @@
 ### Vivid Multi-Colored Hair Editing via Latent Diffusion
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2410.21789)
-[![GitHub Stars](https://img.shields.io/github.com/GenoburyUkawa/HairDiffusion?style=social)](https://github.com/GenoburyUkawa/HairDiffusion)
+[![GitHub Stars](https://img.shields.io/github/stars/GenoburyUkawa/HairDiffusion?style=social)](https://github.com/GenoburyUkawa/HairDiffusion)
 
 ## Overview
 
