@@ -1,1 +1,1 @@
-# HairDiffusion
+# HairDiffusion (NeurIPS 2024)
